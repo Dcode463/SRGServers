@@ -1,4 +1,4 @@
- let servidor;
+let servidor;
 let buttonsSelectionModeRepositoriGames = document.getElementById('severRepositoriGameMode_Buttons');
 let sectionModeServerRepositoriGames = document.getElementById('severRepositoriGameMode_Section');
 let sectionModeSelectionMode = document.getElementById('electionMode');
