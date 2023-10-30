@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+package.json
+public/Games/
+public/gamerRom/
+public/iconos/
+public/mediaChatBot/
+public/questionMedia/
+public/sonidos/
