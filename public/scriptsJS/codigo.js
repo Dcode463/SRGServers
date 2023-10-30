@@ -22,7 +22,7 @@ boxModeGames.style.opacity = "0";
 setTimeout(()=>{
 boxModeAcademic.style = `left:50%;top:50%;transform:translate(-50%,-50%)`;
 setTimeout(()=>{boxModeAcademic.style.opacity = "0"; setTimeout(()=>{viajeSubLaunchuer.style.display = "block";
-sectionModeServerRepositoriGames.style.style = "none"},500)},500)
+sectionModeServerRepositoriGames.style.style = "none"},600)},500)
 },500)
 })
 buttonsSelectionModeRepositoriGames.addEventListener('click',()=>{
